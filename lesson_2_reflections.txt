@@ -1,0 +1,16 @@
+What happens when you initialize a repository?
+Why do you need to do it?
+
+Whan a repository is initialized, Git creates 
+a folder called .git, which is initially empty.
+A repositry needs to be initialized so that 
+there is a place to create and store commits.
+
+
+How is the staging area different from the 
+working directory and the repository? What 
+value do you think it offers?
+
+The working directory contains all of the 
+files. The staging area contains only files 
+that you are interested in committing 
