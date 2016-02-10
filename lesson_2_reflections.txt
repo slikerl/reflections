@@ -53,3 +53,11 @@ represent it in the diagram the way we do in order
 to keep the parent relationships organized.
 
 
+What are the pros and cons of Git's automatic vs. 
+always doing merges manually?
+
+Pros of Git automatic: saves time, can process 
+large amounts of code, can detect code lineage 
+based on parent relationships, can detect 
+conflicts
+Cons of Git automatic: can's resolve conflicts.
