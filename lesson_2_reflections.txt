@@ -13,4 +13,43 @@ value do you think it offers?
 
 The working directory contains all of the 
 files. The staging area contains only files 
-that you are interested in committing 
+that you are interested in committing.
+
+
+How can you use the staging area to make sure 
+you have one commit per logical change?
+
+By adding files to the staging area, and then 
+using the command 'git diff --staged', you can 
+make sure that you have one commit per logical 
+change
+
+
+What are some situation when branches would be 
+helpful in keeping your history organized? How 
+would branches help?
+
+Branches are useful when you want to introduce 
+a new experimental feature to a project because 
+branches allow you to do so without changing the 
+currently working and bug free version. 
+
+
+How do the diagrams help you visualize the 
+branch structure?
+
+The diagrams help visualize the branch structure 
+by identifiying the relationships of all of the 
+commits.
+
+
+What is the result of merging two branches 
+together? Why do we represent it in the diagram 
+the way we do?
+
+The result of merging two branches together is 
+a combination of two working programs. We 
+represent it in the diagram the way we do in order 
+to keep the parent relationships organized.
+
+
