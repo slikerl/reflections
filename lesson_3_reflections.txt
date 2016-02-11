@@ -35,3 +35,11 @@ remote stored locally?
 You can work on it offline
 
 
+How would you collaborate without using Git or GitHub? What would 
+be easier, and what would be harder?
+
+You could collaborate over a LAN, or server. If on a LAN, you 
+wouldn't need to have an internet connection in order to 
+collaborate. However, the user interface wouldn't be as nice. 
+You would also lose all of the features that GitHub provides,
+such as pull requests, comments on pull requests, etc.
