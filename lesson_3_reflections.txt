@@ -27,3 +27,11 @@ Clone to copy a reposity from GitHub onto your local machine or
 to duplicate a repository with your machine. You would use a 
 branch within a repository when introducing an experimental feature 
 without disrupting the master.
+
+
+What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+You can work on it offline
+
+
